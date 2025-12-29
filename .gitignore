@@ -1,0 +1,14 @@
+# Spark output / build artifacts
+data/out/
+
+# Spark runtime files
+spark-warehouse/
+_metastore/
+*.parquet
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS / editor junk
+.DS_Store
